@@ -126,7 +126,3 @@ SELECT
 FROM game_stat AS gs
 JOIN count_race_player AS crp ON gs.race = crp.race
 GROUP BY gs.race,count_player;
-
-
--- Задача 2: Частота покупок
-Обязательно сделаю для себя когда буду дома,а пока я на вахте времени и так не много :(
